@@ -1,5 +1,6 @@
 ---
 title: "We have news: NEWS!"
+image: /assets/screenshot.png
 ---
 
 Today, Koshland made its first official online news service called Koshland News.
