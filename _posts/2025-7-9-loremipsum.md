@@ -1,5 +1,7 @@
 ---
-title: "testtest"
+title: "We have news!"
 ---
 
-Today, Koshland declared YYYY-MM-DD as National lorem Day to celebrate the lorem  ipsum.
+Today, Koshland made its first official online news service called Koshland News.
+
+It is powered by Jekyll and Github pages.
