@@ -1,7 +1,5 @@
 ---
-title: "We have news!"
+title: "null"
 ---
 
-Today, Koshland made its first official online news service called Koshland News.
-
-It is powered by Jekyll and Github pages.
+Undifined
