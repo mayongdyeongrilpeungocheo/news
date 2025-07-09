@@ -8,10 +8,11 @@
 <body>
   <header>
    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      {% if page.image %}
+    <p><em>{{ site.description }}</em></p>
+    <h2>{{ page.title }}</h2>
+     {% if page.image %}
        <img src="{{ page.image | relative_url }}" alt="">
       {% endif %}
-    <p><em>{{ site.description }}</em></p>
     <hr>
   </header>
 
